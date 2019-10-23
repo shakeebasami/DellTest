@@ -1,0 +1,21 @@
+question-1 What is the width of a container with 100px of width and 5px of padding?
+Answer-    width will be 90px beacause padding-left and padding-right will be minus 5px, 5px from width:100px so it width will be 90px.
+
+
+Question-2 How to apply a click event to all paragraphs except for the last?
+Answer- $('p:not(:last)').on('click', someFunction);
+
+Question-3 Why does the alert show "Jack" first and then undefined?
+function identity() {
+    var name = 'Jack';
+    alert(name);
+    return
+    name
+};
+
+var who = identity();
+alert(who)
+
+
+Answer- first alert will show "Jack" beacause first compiler will go to variable who where it will get the identity function so it will run the function and show the "Jack"
+then it will go to last line alert(who), where it will show undefined. because javascript is a single thread.
