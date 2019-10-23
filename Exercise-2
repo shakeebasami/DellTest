@@ -1,0 +1,25 @@
+Answer-1
+$('.slides').carousel('pause');
+
+
+Answer-2
+
+$(document).ready(function() {
+            $(".First-tab").click(function() {
+                $(".First-tab").css("background-color", "purple"); 
+            }); 
+            $(".second-tab").click(function() {
+                $(".second-tab").css("background-color", "green"); 
+            });
+        }); 
+        
+        
+    
+Answer-4
+$(document).ready(function() {
+for(var i=0; i<heroGreen.length;i++){
+sum=0;
+sum=sum+dellPrice;
+return sum;
+}
+}
