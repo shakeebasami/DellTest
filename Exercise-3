@@ -1,0 +1,104 @@
+
+
+<nav id="cat-tiles" aria-label="Product Categories">
+            <div class="cat-tiles-carousel slick-initialized slick-slider">
+                    <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1141px; transform: translate3d(0px, 0px, 0px);"><div class="cat-tile active dellmetrics-pl-piglets slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 163px;" tabindex="0">
+                        <a href="/en-us/shop/dell-laptops/sc/laptops" title="Laptops &amp; 2-in-1 PCs" data-catid="#laptops" tabindex="0">
+                            <div class="cat-tile-img-container">
+                                <img class="img-responsive" src="//i.dell.com/das/dih.ashx/140X110/sites/imagecontent/consumer/merchandizing/en/publishingimages/magnum-category/homepage/21507-home-inspiron-3147-xps-15-165x130.png" alt="Laptops" title="Shop All">
+                            </div>
+                            <div class="cat-tile-text">
+                                <h4>Shop All</h4>
+                                <p></p>
+                            </div>
+                            <div class="cat-tiles-arrow">
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" height="15" viewBox="13 1 30 30"><path fill="#007db8" d="M15.871 16l13.737-13.737c0.518-0.518 0.518-1.357 0-1.875-0.518-0.518-1.357-0.518-1.875-0.001l-14.675 14.674c-0.518 0.518-0.517 1.357 0.001 1.875l14.674 14.673c0.518 0.518 1.357 0.518 1.875 0.001s0.518-1.357 0-1.875l-13.737-13.736z"></path></svg>
+                            </div>
+                        </a>
+                    </div><div class="cat-tile slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 156px;" tabindex="0">
+                        <a href="/en-us/shop/dell-laptops/sc/laptops/inspiron-laptops" title="Inspiron Laptops" data-catid="#inspiron-laptops" tabindex="0">
+                            <div class="cat-tile-img-container">
+                                <img class="img-responsive" src="//i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/page/campaign/26214/26214-notebook-alienware-m15-169x149.png?fmt=jpg&amp;wid=108
+" alt="Inspiron Laptops" title="Inspiron Laptops">
+                            </div>
+                            <div class="cat-tile-text">
+                                <h4>Alienware Laptops
+</h4>
+                                <p>Best-in-class gaming and VR ready
+</p>
+                            </div>
+                            <div class="cat-tiles-arrow">
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" height="15" viewBox="13 1 30 30"><path fill="#007db8" d="M15.871 16l13.737-13.737c0.518-0.518 0.518-1.357 0-1.875-0.518-0.518-1.357-0.518-1.875-0.001l-14.675 14.674c-0.518 0.518-0.517 1.357 0.001 1.875l14.674 14.673c0.518 0.518 1.357 0.518 1.875 0.001s0.518-1.357 0-1.875l-13.737-13.736z"></path></svg>
+                            </div>
+                        </a>
+                    </div><div class="cat-tile slick-slide slick-active" data-slick-index="4" aria-hidden="false" style="width: 156px;" tabindex="0">
+                        <a href="/en-us/shop/dell-laptops/sc/laptops/alienware-laptops" title="Alienware Laptops" data-catid="#alienware-laptops" tabindex="0">
+                            <div class="cat-tile-img-container">
+                                <img class="img-responsive" src="//i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/page/campaign/26214/26214-notebook-inspiron-14-7472-169x149.png?fmt=jpg&amp;wid=108" alt="Alienware Laptops" title="Alienware Laptops">
+                            </div>
+                            <div class="cat-tile-text">
+                                <h4>Inspiron Laptops
+</h4>
+                                <p>Laptops for home and home office</p>
+                            </div>
+                            <div class="cat-tiles-arrow">
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" height="15" viewBox="13 1 30 30"><path fill="#007db8" d="M15.871 16l13.737-13.737c0.518-0.518 0.518-1.357 0-1.875-0.518-0.518-1.357-0.518-1.875-0.001l-14.675 14.674c-0.518 0.518-0.517 1.357 0.001 1.875l14.674 14.673c0.518 0.518 1.357 0.518 1.875 0.001s0.518-1.357 0-1.875l-13.737-13.736z"></path></svg>
+                            </div>
+                        </a>
+                    </div><div class="cat-tile slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 156px;" tabindex="0">
+                        <a href="/en-us/shop/dell-laptops/sc/laptops/xps-laptops" title="XPS Laptops &amp; 2-in-1 PCs" data-catid="#xps-laptops" tabindex="0">
+                            <div class="cat-tile-img-container">
+                                <img class="img-responsive" src="//i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/page/campaign/26214/26214-notebook-xps-15-9570-169x149.png?fmt=jpg&amp;amp;wid=108" alt="XPS Laptops &amp; 2-in-1 PCs" title="XPS Laptops &amp; 2-in-1 PCs">
+                            </div>
+                            <div class="cat-tile-text">
+                                <h4>XPS Laptops &amp; 2-in-1 PCs</h4>
+                                <p>Laptops designed to be the best</p>
+                            </div>
+                            <div class="cat-tiles-arrow">
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" height="15" viewBox="13 1 30 30"><path fill="#007db8" d="M15.871 16l13.737-13.737c0.518-0.518 0.518-1.357 0-1.875-0.518-0.518-1.357-0.518-1.875-0.001l-14.675 14.674c-0.518 0.518-0.517 1.357 0.001 1.875l14.674 14.673c0.518 0.518 1.357 0.518 1.875 0.001s0.518-1.357 0-1.875l-13.737-13.736z"></path></svg>
+                            </div>
+                        </a>
+                    </div><div class="cat-tile slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 156px;" tabindex="0">
+                        <a href="/en-us/shop/dell-laptops/sc/laptops/g-series" title="G Series Gaming Laptops" data-catid="#g-series" tabindex="0">
+                            <div class="cat-tile-img-container">
+                                <img class="img-responsive" src="//i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/page/campaign/26214/26214-notebook-g-15-7590-169x149.png?fmt=jpg&amp;amp;wid=108" alt="G Series Gaming Laptops" title="G Series Gaming Laptops">
+                            </div>
+                            <div class="cat-tile-text">
+                                <h4>G Series Gaming Laptops</h4>
+                                <p>High-performance gaming</p>
+                            </div>
+                            <div class="cat-tiles-arrow">
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" height="15" viewBox="13 1 30 30"><path fill="#007db8" d="M15.871 16l13.737-13.737c0.518-0.518 0.518-1.357 0-1.875-0.518-0.518-1.357-0.518-1.875-0.001l-14.675 14.674c-0.518 0.518-0.517 1.357 0.001 1.875l14.674 14.673c0.518 0.518 1.357 0.518 1.875 0.001s0.518-1.357 0-1.875l-13.737-13.736z"></path></svg>
+                            </div>
+                        </a>
+                    </div><div class="cat-tile slick-slide slick-active" data-slick-index="5" aria-hidden="false" style="width: 156px;" tabindex="0">
+                        <a href="/en-us/shop/dell-laptops/sc/laptops/inspiron-chromebook-laptops" title="Inspiron Chromebook" data-catid="#inspiron-chromebook-laptops" tabindex="0">
+                            <div class="cat-tile-img-container">
+                                <img class="img-responsive" src="//i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/page/campaign/26214/26214-notebook-inspiron-11-3181nt-169x149.png?fmt=jpg&amp;amp;wid=108" alt="Inspiron Chromebook" title="Inspiron Chromebook">
+                            </div>
+                            <div class="cat-tile-text">
+                                <h4>Inspiron Chromebook</h4>
+                                <p>For fast access to the web</p>
+                            </div>
+                            <div class="cat-tiles-arrow">
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" height="15" viewBox="13 1 30 30"><path fill="#007db8" d="M15.871 16l13.737-13.737c0.518-0.518 0.518-1.357 0-1.875-0.518-0.518-1.357-0.518-1.875-0.001l-14.675 14.674c-0.518 0.518-0.517 1.357 0.001 1.875l14.674 14.673c0.518 0.518 1.357 0.518 1.875 0.001s0.518-1.357 0-1.875l-13.737-13.736z"></path></svg>
+                            </div>
+                        </a>
+                    </div><div class="cat-tile slick-slide slick-active" data-slick-index="6" aria-hidden="false" style="width: 156px;" tabindex="0">
+                        <a href="//deals.dell.com/category/laptops" title="Laptop Deals" data-catid="#laptops-deals-custom-stp" external="external" tabindex="0">
+                            <div class="cat-tile-img-container">
+                                <img class="img-responsive" src="//i.dell.com/das/dih.ashx/140X110/sites/imagecontent/consumer/merchandizing/en/publishingimages/magnum-category/deals/fy14q4-insp15-insp15r-piglet-190x149.png" alt="Laptop Deals" title="Laptop Deals">
+                            </div>
+                            <div class="cat-tile-text">
+                                <h4>Laptop Deals</h4>
+                                <p>For current Laptop Deals</p>
+                            </div>
+                            <div class="cat-tiles-arrow">
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" height="15" viewBox="13 1 30 30"><path fill="#007db8" d="M15.871 16l13.737-13.737c0.518-0.518 0.518-1.357 0-1.875-0.518-0.518-1.357-0.518-1.875-0.001l-14.675 14.674c-0.518 0.518-0.517 1.357 0.001 1.875l14.674 14.673c0.518 0.518 1.357 0.518 1.875 0.001s0.518-1.357 0-1.875l-13.737-13.736z"></path></svg>
+                            </div>
+                        </a>
+                    </div></div></div>
+            </div>
+        </nav>
+   
+   
