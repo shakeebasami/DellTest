@@ -1,0 +1,102 @@
+<div class="col-lg-12">
+<div class="resource-tiles col-lg-6">
+                        <div id="quickresourcetopdiv" class="col-md-6 col-sm-6 col-xs-12">
+                            <div class="well card text-center row-overlay" data-mh="quicklinks-res" style="height: 173px;width: 200px;">
+                                <a href="//www.dell.com/support/home/in/en/inbsd1?app=licenses" class="card-content">
+                                    <i class="icon-outlined-book text-blue ql-icons quicklink-padding-10"></i>
+                                    <h4 class="heading-light">Software Licenses</h4>
+                                </a>
+                            </div>
+                        </div>
+                        <div id="quickresourcetopdiv" class="col-md-6 col-sm-6 col-xs-12">
+                            <div class="well card text-center row-overlay" data-mh="quicklinks-res" style="height: 173px;width: 200px;">
+                                <a href="//www.dell.com/support/home/in/en/inbsd1?app=warranty" class="card-content">
+                                    <i class="icon-outlined-warranty text-blue ql-icons quicklink-padding-10"></i>
+                                    <h4 class="heading-light">Warranty &amp; Contracts</h4>
+                                </a>
+                            </div>
+                        </div>
+                        <div id="quickresourcetopdiv" class="col-md-6 col-sm-6 col-xs-12">
+                            <div class="well card text-center row-overlay" data-mh="quicklinks-res" style="height: 173px;width: 200px;">
+                                <a href="//www.dell.com/support/home/in/en/inbsd1?app=drivers" class="card-content">
+                                    <i class="icon-outlined-drivers text-blue ql-icons quicklink-padding-10"></i>
+                                    <h4 class="heading-light">Drivers &amp; Downloads</h4>
+                                </a>
+                            </div>
+                        </div>
+                        <div id="quickresourcetopdiv" class="col-md-6 col-sm-6 col-xs-12">
+                            <div class="well card text-center row-overlay" data-mh="quicklinks-res" style="height: 173px;width: 200px;">
+                                <a href="//www.dell.com/support/home/in/en/inbsd1/quicktest" class="card-content">
+                                    <i class="icon-outlined-tools text-blue ql-icons quicklink-padding-10"></i>
+                                    <h4 class="heading-light">Diagnostics &amp; Tools</h4>
+                                </a>
+                            </div>
+                        </div>
+                </div>
+                
+                <div class="product-selector jumbotron-overlay">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <!--Entry Selection Component-->
+
+<div id="home-product-box" class="ng-scope">
+    <entry-selection entry-model="{&quot;Header&quot;:&quot;Enter a Service Tag, Serial Number, Service Request, Model, or Keyword.&quot;,&quot;CustomGroupsTitle&quot;:&quot;Find my Dell EMC Product&quot;,&quot;BrowseAllProducts&quot;:&quot;Browse all products&quot;,&quot;BrowseAllProductsHref&quot;:&quot;/support/home/in/en/inbsd1/api/catalog/allproducts&quot;,&quot;WaterMarkText&quot;:&quot;What can we help you find?&quot;,&quot;AppReturnUrl&quot;:null,&quot;OrText&quot;:&quot;or&quot;,&quot;DetectMyProduct&quot;:&quot;Detect PC&quot;,&quot;IsAuthenticated&quot;:false,&quot;StsLoginUrl&quot;:&quot;https://www.dell.com/sso/fp/in/31c402c1-80fb-4513-966b-d56c3f61fd57?redirectUrl=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fin%2Fen%2Finbsd1%2F&quot;,&quot;AppName&quot;:&quot;home&quot;,&quot;SupportSearchUrl&quot;:&quot;https://www.dell.com/support/search/in/en/inbsd1&quot;,&quot;EntryInfoPopTitle&quot;:&quot;How to identify your product or search support&quot;,&quot;EntryInfoPopContent&quot;:&quot;<p><strong>Dell products:</strong>Use a Service Tag or Express Service Code.</p><p><strong>Dell EMC, Wyse, Force 10, and EqualLogic products:</strong>Use a Product ID or serial number. These identifiers are usually found on the back or bottom of your device and will return the most specific and helpful information about your product.</p><p></p><p>You may also enter a Service Request (SR) number to get an update on that request.</p><p>Or just search for any product model name, concern, or topic to receive general support for it.</p><p></p>&quot;,&quot;EntryMultiModalTitle&quot;:&quot;Select your product to continue&quot;,&quot;StLabel&quot;:&quot;Service Tag:&quot;,&quot;ValidationMsg&quot;:&quot;There is no match for that Service Tag or product ID. Please try again, auto-detect or choose from all products&quot;,&quot;SlNoLbl&quot;:&quot;Serial Number:&quot;,&quot;EscLbl&quot;:&quot;Express Service Code:&quot;,&quot;PsntLbl&quot;:&quot;PSNT:&quot;,&quot;SrLbl&quot;:&quot;SR Number:&quot;,&quot;AgmtIdLbl&quot;:&quot;Agreement ID:&quot;,&quot;EntrySelectionSetting&quot;:{&quot;AppName&quot;:&quot;home&quot;,&quot;SavedProductsProp20&quot;:null,&quot;DellQuickLinksProp20&quot;:&quot;{\&quot;btnname\&quot;:\&quot;techdirect\&quot;,\&quot;appcode\&quot;:\&quot;890.000.060\&quot;}&quot;,&quot;EMCQuickLinksProp20&quot;:&quot;{\&quot;btnname\&quot;:\&quot;myservice360\&quot;,\&quot;appcode\&quot;:\&quot;111.450.100.000\&quot;}&quot;,&quot;RVPSProp20&quot;:&quot;{\&quot;btnname\&quot;:\&quot;recentlyviewed\&quot;,\&quot;appcode\&quot;:\&quot;222.900.100.060\&quot;}&quot;,&quot;RvpsCallBackFn&quot;:null,&quot;Catalog&quot;:{&quot;Enabled&quot;:true,&quot;Visible&quot;:true,&quot;DellTargetUrl&quot;:&quot;https://www.dell.com/support/home/in/en/inbsd1/product-support/product/[productcode]/[appname]&quot;,&quot;EmcTargetUrl&quot;:&quot;https://support.emc.com/products/[productcode]?siteLocale=en_US&quot;,&quot;CallbackRequired&quot;:false,&quot;BrowseAllProductsLinkProp20&quot;:&quot;{\&quot;btnname\&quot;:\&quot;browseallprods\&quot;,\&quot;appcode\&quot;:\&quot;222.900.100.040\&quot;}&quot;,&quot;BrowseProductsLevel1Prop20&quot;:&quot;{\&quot;btnname\&quot;:\&quot;Allproducts|{0}\&quot;,\&quot;appcode\&quot;:\&quot;222.900.100.041\&quot;}&quot;,&quot;BrowseProductsLevel2Prop20&quot;:&quot;{\&quot;btnname\&quot;:\&quot;Allproducts|{0}\&quot;,\&quot;appcode\&quot;:\&quot;222.900.100.042\&quot;}&quot;,&quot;EnabledCatalogUrlPush&quot;:true,&quot;EmcAuthFormatUri&quot;:&quot;&quot;},&quot;CustomGroup&quot;:{&quot;Enabled&quot;:false,&quot;Visible&quot;:true,&quot;Disabled&quot;:false,&quot;DellUser&quot;:false,&quot;CustomGroupProp20&quot;:{&quot;ProductSearchTab&quot;:&quot;{\&quot;btnname\&quot;:\&quot;productstab\&quot;,\&quot;appcode\&quot;:\&quot;222.900.100.051\&quot;}&quot;,&quot;ProductSearchSubmit&quot;:&quot;{\&quot;btnname\&quot;:\&quot;productid\&quot;,\&quot;appcode\&quot;:\&quot;222.900.100.052\&quot;}&quot;,&quot;MyCustomGroupsTab&quot;:&quot;{\&quot;btnname\&quot;:\&quot;accountsitestab\&quot;,\&quot;appcode\&quot;:\&quot;222.900.100.053\&quot;}&quot;,&quot;MyCustomGroupsSubmit&quot;:&quot;{\&quot;btnname\&quot;:\&quot;cg|version\&quot;,\&quot;appcode\&quot;:\&quot;222.900.100.054\&quot;}&quot;,&quot;AccountSitesTab&quot;:&quot;{\&quot;btnname\&quot;:\&quot;customgroupstab\&quot;,\&quot;appcode\&quot;:\&quot;222.900.100.055\&quot;}&quot;,&quot;AccountSitesSubmit&quot;:&quot;{\&quot;btnname\&quot;:\&quot;askeyword\&quot;,\&quot;appcode\&quot;:\&quot;222.900.100.056\&quot;}&quot;},&quot;CustomGroupCallbackFn&quot;:&quot;&quot;,&quot;ShowAllFilteredProductsAndAssets&quot;:false,&quot;AppName&quot;:null,&quot;ApiUrl&quot;:null},&quot;Entry&quot;:{&quot;Visible&quot;:true,&quot;AssetSearch&quot;:{&quot;Enabled&quot;:true},&quot;SrSearch&quot;:{&quot;Enabled&quot;:true},&quot;ProductSearch&quot;:{&quot;AutoCompleteEnabled&quot;:true},&quot;KeyWordSearch&quot;:{&quot;Enabled&quot;:true,&quot;AutoCompleteEnabled&quot;:true},&quot;SolutionSearch&quot;:{&quot;Enabled&quot;:true},&quot;ButtonStyle&quot;:0,&quot;ServiceTag_SuccessProp20&quot;:&quot;222.900.100.020&quot;,&quot;ServiceTag_FailureProp20&quot;:&quot;222.900.100.021&quot;,&quot;FindEmcProductsProp20&quot;:&quot;{\&quot;btnname\&quot;:\&quot;finddellemcprod\&quot;,\&quot;appcode\&quot;:\&quot;222.900.100.050\&quot;}&quot;,&quot;Captcha_SuccessProp20&quot;:&quot;222.900.100.023&quot;,&quot;Captcha_SeenProp20&quot;:&quot;222.900.100.022&quot;,&quot;EntryCallbackFn&quot;:&quot;&quot;,&quot;AutoSearchSelectCallbackFn&quot;:&quot;&quot;},&quot;Detect&quot;:{&quot;Visible&quot;:true,&quot;CancelUrl&quot;:&quot;https://www.dell.com/support/home/in/en/inbsd1&quot;,&quot;ReturnUrl&quot;:&quot;https://www.dell.com/support/home/in/en/inbsd1/product-support/servicetag&quot;,&quot;Intent&quot;:null,&quot;AppName&quot;:null,&quot;scanSource&quot;:0,&quot;ProductCount&quot;:0,&quot;DeviceType&quot;:0,&quot;IsLearnMoreVisible&quot;:false,&quot;AutoDetect&quot;:null,&quot;DetectButton&quot;:null,&quot;AutoDetectImage&quot;:null,&quot;ViewName&quot;:null,&quot;BarcodeReaderViewModel&quot;:null,&quot;AppReturnUrl&quot;:null,&quot;AppCancelUrl&quot;:null,&quot;DetectButtonText&quot;:null,&quot;DetectbtnProp20&quot;:&quot;{\&quot;btnname\&quot;:\&quot;detectpc\&quot;,\&quot;appcode\&quot;:\&quot;222.900.100.030\&quot;}&quot;,&quot;IsMobile&quot;:false,&quot;BarCodeVisible&quot;:true,&quot;DsdExpiration&quot;:null,&quot;DsdIsAliveToken&quot;:null,&quot;DsdClientSystemInfoToken&quot;:null,&quot;InsertDsdInfoDbUrl&quot;:null,&quot;DsdApiUrl&quot;:null,&quot;SupportAssistUrl&quot;:null,&quot;CookiedTag&quot;:null,&quot;DetectProductApiUrl&quot;:null}},&quot;UnAuthMsg&quot;:&quot;You are not authorized to view this DELL EMC Product&quot;,&quot;IconPopupHeader&quot;:null,&quot;IconPopupText&quot;:null,&quot;EntryValidateUrl&quot;:&quot;/support/home/in/en/inbsd1/api/entry/validateselection&quot;,&quot;CaptchaValidateUrl&quot;:&quot;/support/home/in/en/inbsd1/api/captcha/data&quot;,&quot;SelectedCategory&quot;:&quot;&quot;,&quot;AutoSuggestUrl&quot;:&quot;/support/home/in/en/inbsd1/api/catalog/autosuggest?language=en&amp;country=in&quot;}" handler="" class="ng-isolate-scope"><div class="content-primary-div"><div class="content-primary"><!-- ngIf: entry.entryModel.Header !== '' --><h3 class="bottom-offset-25 ng-scope" ng-if="entry.entryModel.Header !== ''"><span ng-bind-html="entry.entryModel.Header" class="ng-binding">Enter a Service Tag, Serial Number, Service Request, Model, or Keyword.</span> <a id="entryInfoPop" href="javascript:void(0)" data-toggle="popover" data-trigger="focus" class="entryInfoPop" data-original-title="" title=""><i class="icon-small-alertinfo text-blue"></i></a></h3><!-- end ngIf: entry.entryModel.Header !== '' --><!-- ngIf: displayAlert --><!-- ngIf: displayAu --><form ng-submit="SubmitEntry()" name="entrySelectionForm" class="ng-pristine ng-valid"><div class="int-search-controls"><div class="int-search-input-box table-def-components"><div class="input-group"><input type="text" class="form-control inputGroup entry-selector-search ng-pristine ng-untouched ng-valid ui-autocomplete-input" name="entry-main-input" placeholder="What can we help you find?" ng-model="entry.inputValue" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true" aria-activedescendant="ui-active-menuitem"> <span class="input-group-btn"><button class="btn btn-success btn-lg int-custom-btn" type="submit" ng-disabled="submitDisable" ng-show="!loadingSpinner" ng-class="{'btn-pad-outlined': entry.entryModel.SubmitButtonIcon == 'icon-outlined-arrow-right outlined-arrow-font'}" disabled="disabled"><i ng-class="entry.entryModel.SubmitButtonIcon" class="icon-outlined-search outlined-search-font"></i></button> <i class="icon-ui-loading int-entry-loading ng-hide" ng-show="loadingSpinner"></i></span></div></div><!-- ngIf: !entry.entryModel.EntrySelectionSetting.Detect.IsMobile && entry.entryModel.EntrySelectionSetting.Detect.Visible && entry.entryModel.EntrySelectionSetting.Entry.Visible --><div class="table-def-components table-def-ortext-pad hidden-xs ng-scope" ng-if="!entry.entryModel.EntrySelectionSetting.Detect.IsMobile &amp;&amp; entry.entryModel.EntrySelectionSetting.Detect.Visible &amp;&amp; entry.entryModel.EntrySelectionSetting.Entry.Visible"><span class="int-detect-or-marg-ov ng-binding">or</span></div><!-- end ngIf: !entry.entryModel.EntrySelectionSetting.Detect.IsMobile && entry.entryModel.EntrySelectionSetting.Detect.Visible && entry.entryModel.EntrySelectionSetting.Entry.Visible --><!-- ngIf: !entry.entryModel.EntrySelectionSetting.Detect.IsMobile && entry.entryModel.EntrySelectionSetting.Detect.Visible --><div class="table-def-components hidden-xs ng-scope" ng-if="!entry.entryModel.EntrySelectionSetting.Detect.IsMobile &amp;&amp; entry.entryModel.EntrySelectionSetting.Detect.Visible"><detectproduct-view app-name="home" detect-btn-text="Detect PC" detect-data="entry.entryModel.EntrySelectionSetting.Detect" class="ng-isolate-scope"><!-- ngIf: detectData.Visible --><button class="btn btn-default btn-lg product-selector-detect ng-binding ng-scope" type="button" id="detectmyproduct_homepage" data-metrics="{&quot;btnname&quot;:&quot;detectpc&quot;,&quot;appcode&quot;:&quot;222.900.100.030&quot;}" ng-click="detectSystemInfo()" ng-if="detectData.Visible">Detect PC</button><!-- end ngIf: detectData.Visible --></detectproduct-view></div><!-- end ngIf: !entry.entryModel.EntrySelectionSetting.Detect.IsMobile && entry.entryModel.EntrySelectionSetting.Detect.Visible --></div><!-- ngIf: entry.entryModel.EntrySelectionSetting.Detect.IsMobile --><div class="row" style="margin:0 !important;"><!-- ngIf: entry.captchaType !== null --></div></form></div></div><div class="content-secondary cs-modal-buttons"><!-- ngIf: entry.entryModel.EntrySelectionSetting.Catalog.Visible --><div id="psBrowseAll" class="cs-components cs-anchor-link ng-scope" ng-if="entry.entryModel.EntrySelectionSetting.Catalog.Visible"><a href="/support/home/in/en/inbsd1/api/catalog/allproducts" class="int-clickable-parent ng-binding" data-metrics="{&quot;btnname&quot;:&quot;browseallprods&quot;,&quot;appcode&quot;:&quot;222.900.100.040&quot;}" onclick="getCatalogBaseProducts(); return false;" ng-class="{ 'entry-modal-buttons-disable' : !entry.entryModel.EntrySelectionSetting.Catalog.Enabled }">Browse all products</a></div><!-- end ngIf: entry.entryModel.EntrySelectionSetting.Catalog.Visible --><!-- ngIf: entry.entryModel.EntrySelectionSetting.CustomGroup.Visible --><div class="cs-components cs-anchor-link ng-scope" ng-if="entry.entryModel.EntrySelectionSetting.CustomGroup.Visible" ng-class="{'cs-customgroup-lborder-full' : !entry.entryModel.EntrySelectionSetting.Catalog.Visible}"><a class="int-clickable-parent ng-binding" data-metrics="{&quot;btnname&quot;:&quot;finddellemcprod&quot;,&quot;appcode&quot;:&quot;222.900.100.050&quot;}" ng-class="{ 'entry-modal-buttons-disable' : entry.entryModel.EntrySelectionSetting.CustomGroup.Disabled }" ng-href="https://www.dell.com/sso/fp/in/31c402c1-80fb-4513-966b-d56c3f61fd57?redirectUrl=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fin%2Fen%2Finbsd1%2F" ng-click="entry.CustomGroupsModal()" href="https://www.dell.com/sso/fp/in/31c402c1-80fb-4513-966b-d56c3f61fd57?redirectUrl=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fin%2Fen%2Finbsd1%2F"><!-- ngIf: !entry.entryModel.EntrySelectionSetting.CustomGroup.Enabled --><i class="icon-small-secure ng-scope" ng-if="!entry.entryModel.EntrySelectionSetting.CustomGroup.Enabled"></i><!-- end ngIf: !entry.entryModel.EntrySelectionSetting.CustomGroup.Enabled --> Find my Dell EMC Product</a></div><!-- end ngIf: entry.entryModel.EntrySelectionSetting.CustomGroup.Visible --></div><!--Multiple Products Selection Type Modal--><div class="modal fade" id="ProductsListModal" role="dialog"><div class="modal-dialog"><!--Modal content--><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">×</button><h4 class="modal-title ng-binding">Select your product to continue</h4></div><div class="modal-body"><ul class="list-inline row"><!-- ngRepeat: prod in entry.productList track by $index --></ul></div></div></div></div></entry-selection>
+</div>
+<!--END Entry Selection Component-->
+
+    
+<div class="homecatalog homecatalogmodal modal fade " id="catalog-modal" style="display: none;" role="dialog" tabindex="-1" aria-labelledby="psModelHead">
+    <div class="modal-dialog modal-wide">
+        <div class="modal-content">
+            <div class="row top-offset-20 bottom-offset-20" id="divCatalogContentLoading" style="display:none;">
+                <div class="col-xs-12 text-center"><i class="icon-ui-loading" aria-hidden="true"></i></div>
+            </div>
+            <div id="divCatalogContent">
+                <div ng-controller="catalogController as cl" id="divCatalogs" class="ng-scope">
+    <div class="modal-header">
+        <button type="button" class="close psbtnclose" aria-label="" data-dismiss="modal" onclick="$('#breadCrumpAllProducts').click();">×</button>
+            <div id="divCatalogBreadcrumb">
+        <span><h3 id="psModelHead" class="modal-title breadcrumb-title"></h3></span>
+    </div>
+
+    </div>
+    <div class="modal-body">
+        <div id="divSubCategories"></div>
+        <div id="divSubProducts"></div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-default psbtnclose" data-dismiss="modal" onclick="$('#breadCrumpAllProducts').click();">
+                
+            </button>
+        </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>    <div style="display: none"><a href="/support/home/in/en/inbsd1/api/catalog/allproducts">Browse all products</a></div>
+    
+
+            </div>
+            <div class="col-lg-4 col-lg-offset-0 col-md-10 col-md-offset-1 col-sm-12 col-xs-12 divHomeRvps" style="display: none">
+                <div id="rvps-int-container" class="ng-scope">
+    <rvps-view data-iscps="False" class="ng-isolate-scope"><!-- ngIf: rvpscomp.showLoading --><!-- ngIf: !rvpscomp.showLoading --><div class="recent-products ng-scope" ng-if="!rvpscomp.showLoading"><div class="content-primary ng-hide" ng-show="(rvpscomp.showLoading) || (rvpscomp.showLoading == false &amp;&amp; rvpscomp.carouselData.length > 0)"><h3 class="bottom-offset-25 ng-binding">Recently Viewed</h3><div class="carousel carousel-filmstrip" id="carousel-rvps-generic" data-error-path="//i.dell.com/is/image/DellContent/content/dam/global-site-design/product_images/esupport/icons/esupport-blank-space-v2.png"><div class="carousel-items slick-initialized slick-slider" ng-class="{ 'single-item-min-height': rvpscomp.carouselData.length == 1 }"><!-- ngRepeat: slide in rvpscomp.carouselData --><div class="slick-list draggable" tabindex="0"><div class="slick-track" style="opacity: 1; width: 0px; transform: translate3d(0px, 0px, 0px);"></div></div></div></div></div></div><!-- end ngIf: !rvpscomp.showLoading --><!--[if lte IE 9]>
+ <style>
+ .product-selector .carousel-filmstrip.carousel .product-details {
+ margin-top: 0px\0/;
+ margin-left: 100px\0/;
+ height: 80px\0/;
+ }
+ .product-selector .carousel-filmstrip.carousel .product-image{
+ position:absolute;
+ }
+ </style>
+ <![endif]--></rvps-view>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+</div>
